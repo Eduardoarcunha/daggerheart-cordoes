@@ -3,6 +3,7 @@
 **Como é conhecido(a):**  *Nome*
 **Jogador(a):**
 **Descrição:** *Raça, aparência*
+**Medos:**
 
 # Metas
 **Curto Prazo**

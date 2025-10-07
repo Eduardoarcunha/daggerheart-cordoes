@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9ed7baef41891b4e",
+        "id": "a0dac56199d5af90",
         "type": "tabs",
         "children": [
           {
-            "id": "158b0bd11a1c3a6d",
+            "id": "cacd6cce659bebee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00. Ferramentas & Recursos/Templates/Template Personagens.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Template Personagens"
+              "title": "New tab"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00. Ferramentas & Recursos/Templates/Template Personagens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Template Personagens"
+              "title": "Backlinks"
             }
           },
           {
@@ -142,13 +137,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline"
             }
           },
           {
@@ -181,28 +175,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "158b0bd11a1c3a6d",
+  "active": "cacd6cce659bebee",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2025-10-07 18.36.20.excalidraw.md",
+    "01. O Mundo/Cultura & Sociedade/Civilizações/A Cidade de Prata.md",
+    "02. Campanha/BEATS - Campanha.md",
+    "02. Campanha/Personagens/Caim.md",
+    "02. Campanha/Personagens/Baarbara Baarbosa.md",
+    "02. Campanha/Personagens/A.L.M.A. & R.A.I.O..md",
+    "01. O Mundo/Cultura & Sociedade/NPCs/Antônio Estaraques.md",
+    "01. O Mundo/Cultura & Sociedade/Localizações",
+    "01. O Mundo/Cultura & Sociedade/Localizações/Fábrica Oca.md",
+    "01. O Mundo/Cultura & Sociedade/NPCs",
+    "01. O Mundo/Natureza/Tunéria.md",
+    "00. Ferramentas & Recursos/Src/Pasted image 20251007194958.png",
+    "01. O Mundo/Cultura & Sociedade/Os Robôs Ocos.md",
+    "01. O Mundo/Cultura & Sociedade/A Ruptura.md",
+    "00. Ferramentas & Recursos/Templates/Template Natureza.md",
     "00. Ferramentas & Recursos/Templates/Template Personagens.md",
-    "02. Campanha/Untitled",
+    "00. Ferramentas & Recursos/Src/Pasted image 20251007185428.png",
+    "00. Ferramentas & Recursos/Templates/Template História.md",
+    "00. Ferramentas & Recursos/Templates/Template NPCs.md",
+    "01. O Mundo/Cultura & Sociedade/Civilizações",
+    "00. Ferramentas & Recursos/Daggerheart",
+    "01. O Mundo/Cosmologia & Religião/Omebella.md",
+    "02. Campanha/Sessões",
+    "02. Campanha/Personagens",
+    "00. Ferramentas & Recursos/Templates/Template Divindade.md",
+    "Cidade de Prata.md",
+    "00. Ferramentas & Recursos/Templates/Template Civilização.md",
     "Welcome.md",
     "Untitled.md",
+    "Excalidraw/Drawing 2025-10-07 18.36.20.excalidraw.md",
     "Excalidraw/Drawing 2025-10-07 18.31.21_0.excalidraw.md",
     "Excalidraw/Drawing 2025-10-07 18.31.21.excalidraw.md",
     "Excalidraw",
-    "00. Ferramentas & Recursos/Templates/Template NPCs.md",
     "01. O Mundo/Natureza",
     "01. O Mundo/Cultura & Sociedade",
     "01. O Mundo/Cosmologia & Religião",
-    "00. Ferramentas & Recursos/Templates/Template Civilização.md",
     "00. Ferramentas & Recursos/Templates/Template Facções.md",
-    "00. Ferramentas & Recursos/Templates/Template História.md",
-    "00. Ferramentas & Recursos/Templates",
-    "00. Ferramentas & Recursos/Src",
-    "02. Campanha",
-    "00. Ferramentas & Recursos",
-    "03. Ferramentas/Nome.md",
-    "Untitled.base"
+    "03. Ferramentas/Nome.md"
   ]
 }
