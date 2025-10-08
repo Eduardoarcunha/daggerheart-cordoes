@@ -42,11 +42,11 @@ E no fim, nenhum deus prevaleceu — todos ruíram, enfraquecidos pela descrenç
 ## A Herança dos Deuses
 Diante da extinção, os que ainda criam na permanência uniram suas últimas forças.
 
-Chamaram-se **Perdurantes**, e de sua união nasceu a **Radiância** — uma centelha de luz destinada a sustentar o que restasse do mundo.  
+Chamaram-se **Perdurantes**, e de sua união nasceu [[A Radiância|a Radiância]] — uma centelha de luz destinada a sustentar o que restasse do mundo.  
 
 Os demais, os **Comutas**, aceitaram o fim como libertação.
 
-Em seu último ato, lançaram a **Maldição do Vazio** — uma força que devora tudo até restar apenas o silêncio.
+Em seu último ato, lançaram [[O Vazio|o Vazio]] — uma força que devora tudo até restar apenas o silêncio.
 
 Crê-se que, quando nada mais existir, o Vazio abrirá o caminho para o retorno dos que o criaram.
 

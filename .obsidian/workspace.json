@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a0dac56199d5af90",
+        "id": "6a2c348b5718b3c8",
         "type": "tabs",
         "children": [
           {
-            "id": "cacd6cce659bebee",
+            "id": "054442342db1ee62",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02. Campanha/Personagens/Baarbara Barboosa.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Baarbara Barboosa"
             }
           }
         ]
@@ -175,21 +179,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cacd6cce659bebee",
+  "active": "054442342db1ee62",
   "lastOpenFiles": [
-    "01. O Mundo/Cultura & Sociedade/Civilizações/A Cidade de Prata.md",
-    "02. Campanha/BEATS - Campanha.md",
-    "02. Campanha/Personagens/Caim.md",
-    "02. Campanha/Personagens/Baarbara Baarbosa.md",
     "02. Campanha/Personagens/A.L.M.A. & R.A.I.O..md",
-    "01. O Mundo/Cultura & Sociedade/NPCs/Antônio Estaraques.md",
+    "02. Campanha/Personagens/Baarbara Barboosa.md",
+    "02. Campanha/Personagens/Caim.md",
+    "02. Campanha/BEATS - Campanha.md",
+    "01. O Mundo/Cosmologia & Religião/Omebella.md",
+    "O Conto dos Dois Irmãos.md",
+    "Gaarla Barboosa.md",
+    "Barutir.md",
+    "A Cidade de Prata.md",
+    "01. O Mundo/Cultura & Sociedade/História/A Ruptura.md",
+    "Os Robôs Ocos.md",
+    "Antônio Estaraques.md",
+    "Os Cordões.md",
+    "01. O Mundo/Natureza/O Vazio.md",
+    "01. O Mundo/Natureza/A Radiância.md",
+    "Os Domos.md",
+    "Comutas.md",
+    "Perdurantes.md",
+    "00. Ferramentas & Recursos/Src/Pasted image 20251007194958.png",
+    "01. O Mundo/Cultura & Sociedade/História",
     "01. O Mundo/Cultura & Sociedade/Localizações",
     "01. O Mundo/Cultura & Sociedade/Localizações/Fábrica Oca.md",
     "01. O Mundo/Cultura & Sociedade/NPCs",
     "01. O Mundo/Natureza/Tunéria.md",
-    "00. Ferramentas & Recursos/Src/Pasted image 20251007194958.png",
-    "01. O Mundo/Cultura & Sociedade/Os Robôs Ocos.md",
-    "01. O Mundo/Cultura & Sociedade/A Ruptura.md",
     "00. Ferramentas & Recursos/Templates/Template Natureza.md",
     "00. Ferramentas & Recursos/Templates/Template Personagens.md",
     "00. Ferramentas & Recursos/Src/Pasted image 20251007185428.png",
@@ -197,22 +212,12 @@
     "00. Ferramentas & Recursos/Templates/Template NPCs.md",
     "01. O Mundo/Cultura & Sociedade/Civilizações",
     "00. Ferramentas & Recursos/Daggerheart",
-    "01. O Mundo/Cosmologia & Religião/Omebella.md",
     "02. Campanha/Sessões",
     "02. Campanha/Personagens",
     "00. Ferramentas & Recursos/Templates/Template Divindade.md",
     "Cidade de Prata.md",
-    "00. Ferramentas & Recursos/Templates/Template Civilização.md",
-    "Welcome.md",
-    "Untitled.md",
-    "Excalidraw/Drawing 2025-10-07 18.36.20.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-07 18.31.21_0.excalidraw.md",
-    "Excalidraw/Drawing 2025-10-07 18.31.21.excalidraw.md",
     "Excalidraw",
     "01. O Mundo/Natureza",
-    "01. O Mundo/Cultura & Sociedade",
-    "01. O Mundo/Cosmologia & Religião",
-    "00. Ferramentas & Recursos/Templates/Template Facções.md",
-    "03. Ferramentas/Nome.md"
+    "01. O Mundo/Cultura & Sociedade"
   ]
 }

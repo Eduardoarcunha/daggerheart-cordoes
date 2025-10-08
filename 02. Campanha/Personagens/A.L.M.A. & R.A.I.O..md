@@ -60,7 +60,7 @@ Em sua nova vida, A.L.M.A. conheceu algumas figuras, dentre eles [[Antônio Esta
 
 A.L.M.A. segue sua vida ajudando ao máximo as pessoas, acreditando que é uma vontade divina, e não só isso, uma vontade própria dele.
 
-Atualmente, A.L.M.A. viaja com sua parceira [[Baarbara Baarbosa]].
+Atualmente, A.L.M.A. viaja com sua parceira [[Baarbara Barboosa]].
 
 
 
